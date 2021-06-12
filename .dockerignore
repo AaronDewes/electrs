@@ -1,3 +1,4 @@
+target
 .*
 _*
 contrib
@@ -7,5 +8,8 @@ doc
 Dockerfile
 examples
 scripts
-target
 tests
+LICENSE
+README.md
+RELEASE-NOTES.md
+TODO.md
